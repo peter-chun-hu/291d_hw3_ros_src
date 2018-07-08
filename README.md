@@ -3,8 +3,12 @@
 ## **Introduction** ##
 Implemented ROS launch file to build a map using ROS packages
 
-## **Result** ##
+## **Environment** ##
 ![Alt text](img/Environment1.JPG)
+![Alt text](img/Environment2.JPG)
+
+## **Result** ##
+![Alt text](img/Result1.JPG)
 * [Video](https://youtu.be/bA_MkM1NLRY)
 
 ## **Requirements** ##
