@@ -4,6 +4,7 @@
 Implemented ROS launch file to build a map using ROS packages
 
 ## **Result** ##
+![Alt text](img/Environment1.JPG)
 * [Video](https://youtu.be/bA_MkM1NLRY)
 
 ## **Requirements** ##
