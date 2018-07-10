@@ -25,7 +25,7 @@ Implemented ROS launch file to build a map using ROS packages
 ## **Run** ##
 * Launch ROS launch file with ```roslaunch HW3.launch``` under ```/opt/ros/kinetic/share/usb_cam/launch```
 
-## **Reference** ##
+## **ROS packages** ##
 * [usb camera](http://wiki.ros.org/usb_cam)
 * [joystick](http://wiki.ros.org/joy)
 * [aruco](http://wiki.ros.org/tuw_aruco)
