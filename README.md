@@ -4,7 +4,9 @@
 Implemented ROS launch file to build a map using ROS packages
 
 ## **Environment** ##
+* Real world
 ![Alt text](img/Environment1.jpg)
+* Map
 ![Alt text](img/Environment2.JPG)
 
 ## **Result** ##
@@ -22,3 +24,9 @@ Implemented ROS launch file to build a map using ROS packages
 
 ## **Run** ##
 * Launch ROS launch file with ```roslaunch HW3.launch``` under ```/opt/ros/kinetic/share/usb_cam/launch```
+
+## **Reference** ##
+* [usb camera](http://wiki.ros.org/usb_cam)
+* [joystick](http://wiki.ros.org/joy)
+* [aruco](http://wiki.ros.org/tuw_aruco)
+* [SLAM](http://wiki.ros.org/tuw_marker_slam)
