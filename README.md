@@ -11,7 +11,9 @@ Implemented ROS launch file to build a map using ROS packages
 
 ## **Result** ##
 * Image  
-![Alt text](img/Result1.jpg)  
+![Alt text](img/Result1.jpg)
+* rqt_graph
+![Alt text](img/rqt_graph.JPG)
 * [Video](https://youtu.be/bA_MkM1NLRY)
 
 ## **Requirements** ##
