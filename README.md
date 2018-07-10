@@ -4,9 +4,9 @@
 Implemented ROS launch file to build a map using ROS packages
 
 ## **Environment** ##
-* Real world
+* Real world  
 ![Alt text](img/Environment1.jpg)
-* Map
+* Map  
 ![Alt text](img/Environment2.JPG)
 
 ## **Result** ##
