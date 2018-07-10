@@ -8,7 +8,7 @@ Implemented ROS launch file to build a map using ROS packages
 ![Alt text](img/Environment2.JPG)
 
 ## **Result** ##
-* Image
+* Image  
 ![Alt text](img/Result1.jpg)  
 * [Video](https://youtu.be/bA_MkM1NLRY)
 
