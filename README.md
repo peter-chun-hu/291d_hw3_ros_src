@@ -9,7 +9,7 @@ Implemented ROS launch file to build a map using ROS packages
 * Map  
 ![Alt text](img/Environment2.JPG)
 
-## **Result** ##
+## **Results** ##
 * Image  
 ![Alt text](img/Result1.jpg)
 * rqt_graph
