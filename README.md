@@ -5,15 +5,15 @@
 
 ## **Environment**
 * ### Real world
-![Alt text](img/Environment1.jpg)
+  <img src="img/Environment1.jpg" width="575">  
 * ### Map
-![Alt text](img/Environment2.JPG)
+  <img src="img/Environment2.jpg" width="575">  
 
 ## **Results**
 * ### Image
-![Alt text](img/Result1.jpg)  
+  <img src="img/Result1.jpg" width="575">  
 * ### rqt_graph
-![Alt text](img/rqt_graph.JPG)  
+  <img src="img/rqt_graph.JPG" width="575">  
 * ### Video (Click the image below to play on YouTube)
 [![](http://img.youtube.com/vi/bA_MkM1NLRY/0.jpg)](http://www.youtube.com/watch?v=bA_MkM1NLRY)
 
