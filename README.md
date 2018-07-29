@@ -1,9 +1,9 @@
-# **ROS SLAM**
+# ROS SLAM
 - - -
-## **Introduction**
+## Introduction
 Implemented ROS launch file to build a map using ROS packages
 
-## **Environment**
+## Environment
 Real world  
   <img src="img/Environment1.jpg" width="575">  
 Map  
