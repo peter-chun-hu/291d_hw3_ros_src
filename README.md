@@ -9,13 +9,13 @@ Implemented ROS launch file to build a map using ROS packages
   <img src="img/Environment2.JPG" width="575">  
 
 ## **Results**
-* Image
+* Image  
   <img src="img/Result1.jpg" width="575">  
-* rqt_graph
+* rqt_graph  
   <img src="img/rqt_graph.JPG" width="700">  
-* Video (Click the image below to play on YouTube)
+* Video (Click the image below to play on YouTube)  
   [![](http://img.youtube.com/vi/bA_MkM1NLRY/0.jpg)](http://www.youtube.com/watch?v=bA_MkM1NLRY)
-* ### [Report](report.pdf)
+* [Report](report.pdf)
 
 ## **Requirements**
 * Ubuntu 16.04
