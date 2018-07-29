@@ -13,9 +13,9 @@
 * ### Image
   <img src="img/Result1.jpg" width="575">  
 * ### rqt_graph
-  <img src="img/rqt_graph.JPG" width="575">  
+  <img src="img/rqt_graph.JPG" width="700">  
 * ### Video (Click the image below to play on YouTube)
-[![](http://img.youtube.com/vi/bA_MkM1NLRY/0.jpg)](http://www.youtube.com/watch?v=bA_MkM1NLRY)
+  [![](http://img.youtube.com/vi/bA_MkM1NLRY/0.jpg)](http://www.youtube.com/watch?v=bA_MkM1NLRY)
 
 ## **Requirements**
 * ### Ubuntu 16.04
