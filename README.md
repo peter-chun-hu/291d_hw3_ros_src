@@ -14,8 +14,7 @@
 ![Alt text](img/Result1.jpg)  
 * ### rqt_graph
 ![Alt text](img/rqt_graph.JPG)  
-[![(https://img.youtube.com/vi/mIvstl3QufM/sddefault.jpg)](https://youtu.be/bA_MkM1NLRY) "Click to play on YouTube.com"]
-* ### [Video](https://youtu.be/bA_MkM1NLRY)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/mIvstl3QufM/0.jpg)](http://www.youtube.com/watch?v=mIvstl3QufM)
 <!-- * ### [Video](https://youtu.be/bA_MkM1NLRY) -->
 
 ## **Requirements**
