@@ -1,5 +1,4 @@
 # ROS SLAM
-- - -
 ## Introduction
 Implemented ROS launch file to build a map using ROS packages
 
