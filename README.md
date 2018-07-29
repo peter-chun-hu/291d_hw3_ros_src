@@ -6,7 +6,7 @@ Implemented ROS launch file to build a map using ROS packages
 Real world  
 <img src="img/Environment1.jpg" width="575">  
 Map  
-<img src="img/Environment2.jpg" width="575">  
+<img src="img/Environment2.JPG" width="575">  
 
 ## **Results**
 * ### Image
