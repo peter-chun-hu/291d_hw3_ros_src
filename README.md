@@ -14,7 +14,9 @@
 ![Alt text](img/Result1.jpg)  
 * ### rqt_graph
 ![Alt text](img/rqt_graph.JPG)  
+[![(https://img.youtube.com/vi/mIvstl3QufM/0.jpg)](https://youtu.be/bA_MkM1NLRY) "Click to play on YouTube.com"]
 * ### [Video](https://youtu.be/bA_MkM1NLRY)
+<!-- * ### [Video](https://youtu.be/bA_MkM1NLRY) -->
 
 ## **Requirements**
 * ### Ubuntu 16.04
